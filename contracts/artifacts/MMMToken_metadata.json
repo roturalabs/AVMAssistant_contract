@@ -1,6 +1,6 @@
 {
 	"compiler": {
-		"version": "0.8.26+commit.8a97fa7a"
+		"version": "0.8.30+commit.73712a01"
 	},
 	"language": "Solidity",
 	"output": {
@@ -679,7 +679,7 @@
 		"compilationTarget": {
 			"contracts/MMMToken.sol": "MMMToken"
 		},
-		"evmVersion": "cancun",
+		"evmVersion": "prague",
 		"libraries": {},
 		"metadata": {
 			"bytecodeHash": "ipfs"
@@ -844,11 +844,11 @@
 			]
 		},
 		"contracts/MMMToken.sol": {
-			"keccak256": "0xeec1c3b0f8d294d97425aa413eba38d1b7b0de86294273fc198853ca21e4a9b8",
+			"keccak256": "0x9476a4233f25275041508f61e34f96c7274c05e5e6b2a2d3f76d61b743689b6d",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://a4474e92aad69c02cdc08bd7903be1715941bd3e213942b62d6541450b28f000",
-				"dweb:/ipfs/QmbpeSTvoZSu99tmWXZ1CMoPdDJFPGpVoNsvncJQB6pmJZ"
+				"bzz-raw://f57161343fd3b4d01eaa07e727321e6dca07b2d88155923bde44b23381b6c36b",
+				"dweb:/ipfs/QmZKY2sRKWik71TyufhuemrXJ67iyNCJ965sL8XkzhBnZo"
 			]
 		}
 	},

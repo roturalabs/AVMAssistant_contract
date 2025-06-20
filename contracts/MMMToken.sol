@@ -5,7 +5,7 @@ import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
 import "@openzeppelin/contracts/token/ERC20/extensions/ERC20Permit.sol";
 
 contract MMMToken is ERC20, ERC20Permit {
-    constructor() ERC20("MarketMentorTest", "tMMM") ERC20Permit("MyToken") {
-        _mint(msg.sender, 1000000000000000000000000000);
+    constructor() ERC20("MarketMentorTest", "tMentor") ERC20Permit("MyToken") {
+        _mint(msg.sender, 50000000000000000000000000000);
     }
 }
